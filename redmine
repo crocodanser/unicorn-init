@@ -23,7 +23,7 @@ USER=rails
 # Reference https://help.ubuntu.com/community/LinuxFilesystemTreeOverview for
 # more information.
 
-APP_ROOT=/opt/rails_apps/redmine
+APP_ROOT=/opt/redmine
 
 # Set the environment. This can be changed to staging or development for staging
 # servers.
